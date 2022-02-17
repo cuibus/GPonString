@@ -1,1 +1,4 @@
 # GPonString
+
+How to use:
+- ...
